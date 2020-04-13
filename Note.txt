@@ -1,1 +1,5 @@
 WebView app ,can search and go back without closing app.
+
+-----------------------------------------------------------------------
+Worldometer for covid 19 : https://www.worldometers.info/coronavirus/
+Tic Tac Toe onlie game : https://playtictactoe.org/
